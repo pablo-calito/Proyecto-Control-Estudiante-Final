@@ -1,1 +1,1 @@
-Practica Supervisada, CREACION CRUD CURSOS
+Proyecto Practicas Supervisada
